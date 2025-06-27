@@ -6,6 +6,7 @@ Dengan banyaknya faktor yang memengaruhi pergerakan harga saham, memprediksi ind
 
 ### Refrensi
 J. Y. Campbell, A. W. Lo, and A. C. MacKinlay, The Econometrics of Financial Markets, Princeton University Press, 1997.
+
 Investing.com: [S&P%500_Investing.com](https://id.investing.com/indices/us-spx-500-historical-data)
 
 ## Business Understanding
